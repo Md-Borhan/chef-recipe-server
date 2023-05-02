@@ -12,20 +12,53 @@
         "recipe_name": "Corned Beef Roast",
         "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
         "ingredients": [
-          "1 (5 1/2 pound) corned beef brisket with spice packet",
-          "2 cloves garlic, chopped",
-          "3 small potatoes, peeled and diced",
-          "4 medium carrots, peeled and diced",
-          "5 medium onion, diced"
+          "1 pound ground beef",
+          "¼ cup bread crumbs",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon seasoned salt",
+          "½ teaspoon onion powder"
         ],
         "method": [
           "Preheat the oven to 300 degrees F (150 degrees C).",
           "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top.",
           "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
         ],
-        "rating": 5.0
+        "rating": 4.4
       },
-      {}
+      {
+        "recipe_name": "Hamburger Steak with Onions and Gravy",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "1 pound ground beef",
+          "¼ cup bread crumbs",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon seasoned salt",
+          "½ teaspoon onion powder"
+        ],
+        "method": [
+          "Mix ground beef, bread crumbs, egg, Worcestershire sauce, salt, onion powder, garlic powder, and pepper together in a large bowl until combined.",
+          "Heat oil in a large skillet over medium heat. Add patties and onion; fry until patties are nicely browned, about 4 minutes per side. Transfer beef patties to a plate, and keep warm.",
+          "Sprinkle flour over onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom of the skillet as you stir. Gradually mix in beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat until gravy thickens, about 5 minutes."
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "My Best Clam Chowder",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "2 cups cubed potatoes",
+          "1 cup diced carrots",
+          "1 cup diced celery",
+          "1 cup minced oniond",
+          "3 (6.5 ounce) cans minced clams, drained with juice reserved"
+        ],
+        "method": [
+          "Place potatoes, carrots, celery, and onion into a large skillet; pour in clam juice and add enough water to cover. Cook and stir over medium-low heat until vegetables are tender.",
+          "Meanwhile, melt butter in a large, heavy saucepan over medium heat. Whisk in flour until smooth. Whisk in cream and stir constantly until thick and smooth. Stir in vegetable mixture with any juices until just heated through.",
+          "Stir in clams just before serving. If they cook too much they get tough. When clams are heated through, stir in vinegar and season with salt and pepper."
+        ],
+        "rating": 5.0
+      }
     ]
   },
   {
@@ -41,18 +74,52 @@
         "recipe_name": "Corned Beef Roast",
         "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
         "ingredients": [
-          "1 (5 1/2 pound) corned beef brisket with spice packet",
-          "3 cloves garlic, chopped",
-          "7 small potatoes, peeled and diced",
-          "4 medium carrots, peeled and diced",
-          "1 medium onion, diced"
+          "1 pound ground beef",
+          "¼ cup bread crumbs",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon seasoned salt",
+          "½ teaspoon onion powder"
         ],
         "method": [
           "Preheat the oven to 300 degrees F (150 degrees C).",
           "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top.",
           "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
         ],
-        "rating": 4.8
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Hamburger Steak with Onions and Gravy",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "1 pound ground beef",
+          "¼ cup bread crumbs",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon seasoned salt",
+          "½ teaspoon onion powder"
+        ],
+        "method": [
+          "Mix ground beef, bread crumbs, egg, Worcestershire sauce, salt, onion powder, garlic powder, and pepper together in a large bowl until combined.",
+          "Heat oil in a large skillet over medium heat. Add patties and onion; fry until patties are nicely browned, about 4 minutes per side. Transfer beef patties to a plate, and keep warm.",
+          "Sprinkle flour over onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom of the skillet as you stir. Gradually mix in beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat until gravy thickens, about 5 minutes."
+        ],
+        "rating": 4.2
+      },
+      {
+        "recipe_name": "My Best Clam Chowder",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "2 cups cubed potatoes",
+          "1 cup diced carrots",
+          "1 cup diced celery",
+          "1 cup minced oniond",
+          "3 (6.5 ounce) cans minced clams, drained with juice reserved"
+        ],
+        "method": [
+          "Place potatoes, carrots, celery, and onion into a large skillet; pour in clam juice and add enough water to cover. Cook and stir over medium-low heat until vegetables are tender.",
+          "Meanwhile, melt butter in a large, heavy saucepan over medium heat. Whisk in flour until smooth. Whisk in cream and stir constantly until thick and smooth. Stir in vegetable mixture with any juices until just heated through.",
+          "Stir in clams just before serving. If they cook too much they get tough. When clams are heated through, stir in vinegar and season with salt and pepper."
+        ],
+        "rating": 4.6
       }
     ]
   },
@@ -69,18 +136,52 @@
         "recipe_name": "Corned Beef Roast",
         "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
         "ingredients": [
-          "1 (5 1/2 pound) corned beef brisket with spice packet",
-          "3 cloves garlic, chopped",
-          "7 small potatoes, peeled and diced",
-          "4 medium carrots, peeled and diced",
-          "1 medium onion, diced"
+          "1 pound ground beef",
+          "¼ cup bread crumbs",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon seasoned salt",
+          "½ teaspoon onion powder"
         ],
         "method": [
           "Preheat the oven to 300 degrees F (150 degrees C).",
           "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top.",
           "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
         ],
-        "rating": 4.0
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Hamburger Steak with Onions and Gravy",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "1 pound ground beef",
+          "¼ cup bread crumbs",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon seasoned salt",
+          "½ teaspoon onion powder"
+        ],
+        "method": [
+          "Mix ground beef, bread crumbs, egg, Worcestershire sauce, salt, onion powder, garlic powder, and pepper together in a large bowl until combined.",
+          "Heat oil in a large skillet over medium heat. Add patties and onion; fry until patties are nicely browned, about 4 minutes per side. Transfer beef patties to a plate, and keep warm.",
+          "Sprinkle flour over onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom of the skillet as you stir. Gradually mix in beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat until gravy thickens, about 5 minutes."
+        ],
+        "rating": 3.9
+      },
+      {
+        "recipe_name": "My Best Clam Chowder",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "2 cups cubed potatoes",
+          "1 cup diced carrots",
+          "1 cup diced celery",
+          "1 cup minced oniond",
+          "3 (6.5 ounce) cans minced clams, drained with juice reserved"
+        ],
+        "method": [
+          "Place potatoes, carrots, celery, and onion into a large skillet; pour in clam juice and add enough water to cover. Cook and stir over medium-low heat until vegetables are tender.",
+          "Meanwhile, melt butter in a large, heavy saucepan over medium heat. Whisk in flour until smooth. Whisk in cream and stir constantly until thick and smooth. Stir in vegetable mixture with any juices until just heated through.",
+          "Stir in clams just before serving. If they cook too much they get tough. When clams are heated through, stir in vinegar and season with salt and pepper."
+        ],
+        "rating": 4.1
       }
     ]
   },
@@ -97,18 +198,52 @@
         "recipe_name": "Corned Beef Roast",
         "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
         "ingredients": [
-          "1 (5 1/2 pound) corned beef brisket with spice packet",
-          "3 cloves garlic, chopped",
-          "7 small potatoes, peeled and diced",
-          "4 medium carrots, peeled and diced",
-          "1 medium onion, diced"
+          "1 pound ground beef",
+          "¼ cup bread crumbs",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon seasoned salt",
+          "½ teaspoon onion powder"
         ],
         "method": [
           "Preheat the oven to 300 degrees F (150 degrees C).",
           "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top.",
           "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
         ],
-        "rating": 3.9
+        "rating": 5.0
+      },
+      {
+        "recipe_name": "Hamburger Steak with Onions and Gravy",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "1 pound ground beef",
+          "¼ cup bread crumbs",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon seasoned salt",
+          "½ teaspoon onion powder"
+        ],
+        "method": [
+          "Mix ground beef, bread crumbs, egg, Worcestershire sauce, salt, onion powder, garlic powder, and pepper together in a large bowl until combined.",
+          "Heat oil in a large skillet over medium heat. Add patties and onion; fry until patties are nicely browned, about 4 minutes per side. Transfer beef patties to a plate, and keep warm.",
+          "Sprinkle flour over onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom of the skillet as you stir. Gradually mix in beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat until gravy thickens, about 5 minutes."
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "My Best Clam Chowder",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "2 cups cubed potatoes",
+          "1 cup diced carrots",
+          "1 cup diced celery",
+          "1 cup minced oniond",
+          "3 (6.5 ounce) cans minced clams, drained with juice reserved"
+        ],
+        "method": [
+          "Place potatoes, carrots, celery, and onion into a large skillet; pour in clam juice and add enough water to cover. Cook and stir over medium-low heat until vegetables are tender.",
+          "Meanwhile, melt butter in a large, heavy saucepan over medium heat. Whisk in flour until smooth. Whisk in cream and stir constantly until thick and smooth. Stir in vegetable mixture with any juices until just heated through.",
+          "Stir in clams just before serving. If they cook too much they get tough. When clams are heated through, stir in vinegar and season with salt and pepper."
+        ],
+        "rating": 4.3
       }
     ]
   },
@@ -125,16 +260,50 @@
         "recipe_name": "Corned Beef Roast",
         "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
         "ingredients": [
-          "1 (5 1/2 pound) corned beef brisket with spice packet",
-          "3 cloves garlic, chopped",
-          "7 small potatoes, peeled and diced",
-          "4 medium carrots, peeled and diced",
-          "1 medium onion, diced"
+          "1 pound ground beef",
+          "¼ cup bread crumbs",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon seasoned salt",
+          "½ teaspoon onion powder"
         ],
         "method": [
           "Preheat the oven to 300 degrees F (150 degrees C).",
           "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top.",
           "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
+        ],
+        "rating": 4.0
+      },
+      {
+        "recipe_name": "Hamburger Steak with Onions and Gravy",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "1 pound ground beef",
+          "¼ cup bread crumbs",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon seasoned salt",
+          "½ teaspoon onion powder"
+        ],
+        "method": [
+          "Mix ground beef, bread crumbs, egg, Worcestershire sauce, salt, onion powder, garlic powder, and pepper together in a large bowl until combined.",
+          "Heat oil in a large skillet over medium heat. Add patties and onion; fry until patties are nicely browned, about 4 minutes per side. Transfer beef patties to a plate, and keep warm.",
+          "Sprinkle flour over onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom of the skillet as you stir. Gradually mix in beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat until gravy thickens, about 5 minutes."
+        ],
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "My Best Clam Chowder",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "2 cups cubed potatoes",
+          "1 cup diced carrots",
+          "1 cup diced celery",
+          "1 cup minced oniond",
+          "3 (6.5 ounce) cans minced clams, drained with juice reserved"
+        ],
+        "method": [
+          "Place potatoes, carrots, celery, and onion into a large skillet; pour in clam juice and add enough water to cover. Cook and stir over medium-low heat until vegetables are tender.",
+          "Meanwhile, melt butter in a large, heavy saucepan over medium heat. Whisk in flour until smooth. Whisk in cream and stir constantly until thick and smooth. Stir in vegetable mixture with any juices until just heated through.",
+          "Stir in clams just before serving. If they cook too much they get tough. When clams are heated through, stir in vinegar and season with salt and pepper."
         ],
         "rating": 4.3
       }
@@ -153,16 +322,50 @@
         "recipe_name": "Corned Beef Roast",
         "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
         "ingredients": [
-          "1 (5 1/2 pound) corned beef brisket with spice packet",
-          "3 cloves garlic, chopped",
-          "7 small potatoes, peeled and diced",
-          "4 medium carrots, peeled and diced",
-          "1 medium onion, diced"
+          "1 pound ground beef",
+          "¼ cup bread crumbs",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon seasoned salt",
+          "½ teaspoon onion powder"
         ],
         "method": [
           "Preheat the oven to 300 degrees F (150 degrees C).",
           "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top.",
           "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
+        ],
+        "rating": 5.0
+      },
+      {
+        "recipe_name": "Hamburger Steak with Onions and Gravy",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "1 pound ground beef",
+          "¼ cup bread crumbs",
+          "1 teaspoon Worcestershire sauce",
+          "½ teaspoon seasoned salt",
+          "½ teaspoon onion powder"
+        ],
+        "method": [
+          "Mix ground beef, bread crumbs, egg, Worcestershire sauce, salt, onion powder, garlic powder, and pepper together in a large bowl until combined.",
+          "Heat oil in a large skillet over medium heat. Add patties and onion; fry until patties are nicely browned, about 4 minutes per side. Transfer beef patties to a plate, and keep warm.",
+          "Sprinkle flour over onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom of the skillet as you stir. Gradually mix in beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat until gravy thickens, about 5 minutes."
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "My Best Clam Chowder",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "2 cups cubed potatoes",
+          "1 cup diced carrots",
+          "1 cup diced celery",
+          "1 cup minced oniond",
+          "3 (6.5 ounce) cans minced clams, drained with juice reserved"
+        ],
+        "method": [
+          "Place potatoes, carrots, celery, and onion into a large skillet; pour in clam juice and add enough water to cover. Cook and stir over medium-low heat until vegetables are tender.",
+          "Meanwhile, melt butter in a large, heavy saucepan over medium heat. Whisk in flour until smooth. Whisk in cream and stir constantly until thick and smooth. Stir in vegetable mixture with any juices until just heated through.",
+          "Stir in clams just before serving. If they cook too much they get tough. When clams are heated through, stir in vinegar and season with salt and pepper."
         ],
         "rating": 5.0
       }

@@ -15,8 +15,8 @@ app.get("/slider", (req, res) => {
   res.send(sliderData);
 });
 
-app.get("/recipe", (req, res) => {
-  res.send();
+app.get("/recipes", (req, res) => {
+  res.send(recipeData);
 });
 
 app.listen(port, () => {
