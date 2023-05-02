@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://i.ibb.co/85sV9KD/chef-img1.jpg",
+    "chef_name": "John Smith",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 10000,
+    "bio": "John Smith is a chef with 10 years of experience. He has created 50 recipes and has gained 10000 likes for his dishes.",
+    "recipe": [
+      {
+        "recipe_name": "Corned Beef Roast",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "1 (5 1/2 pound) corned beef brisket with spice packet",
+          "2 cloves garlic, chopped",
+          "3 small potatoes, peeled and diced",
+          "4 medium carrots, peeled and diced",
+          "5 medium onion, diced"
+        ],
+        "method": [
+          "Preheat the oven to 300 degrees F (150 degrees C).",
+          "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top.",
+          "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
+        ],
+        "rating": 5.0
+      },
+      {}
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://i.ibb.co/zRXdPPw/chef-img5.jpg",
+    "chef_name": "Samantha Lee",
+    "years_of_experience": 8,
+    "number_of_recipes": 75,
+    "likes": 8500,
+    "bio": "Samantha Lee is a chef with 8 years of experience. She has created 75 recipes and has gained 8500 likes for her dishes.",
+    "recipe": [
+      {
+        "recipe_name": "Corned Beef Roast",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "1 (5 1/2 pound) corned beef brisket with spice packet",
+          "3 cloves garlic, chopped",
+          "7 small potatoes, peeled and diced",
+          "4 medium carrots, peeled and diced",
+          "1 medium onion, diced"
+        ],
+        "method": [
+          "Preheat the oven to 300 degrees F (150 degrees C).",
+          "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top.",
+          "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
+        ],
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://i.ibb.co/vQ1SYQ1/chef-img6.jpg",
+    "chef_name": "David Kim",
+    "years_of_experience": 12,
+    "number_of_recipes": 100,
+    "likes": 12000,
+    "bio": "David Kim is a chef with 12 years of experience. He has created 100 recipes and has gained 12000 likes for his dishes.",
+    "recipe": [
+      {
+        "recipe_name": "Corned Beef Roast",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "1 (5 1/2 pound) corned beef brisket with spice packet",
+          "3 cloves garlic, chopped",
+          "7 small potatoes, peeled and diced",
+          "4 medium carrots, peeled and diced",
+          "1 medium onion, diced"
+        ],
+        "method": [
+          "Preheat the oven to 300 degrees F (150 degrees C).",
+          "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top.",
+          "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
+        ],
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://i.ibb.co/vccfnpQ/chef-img2.jpg",
+    "chef_name": "Maria Rodriguez",
+    "years_of_experience": 6,
+    "number_of_recipes": 40,
+    "likes": 5000,
+    "bio": "Maria Rodriguez is a chef with 6 years of experience. She has created 40 recipes and has gained 5000 likes for her dishes.",
+    "recipe": [
+      {
+        "recipe_name": "Corned Beef Roast",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "1 (5 1/2 pound) corned beef brisket with spice packet",
+          "3 cloves garlic, chopped",
+          "7 small potatoes, peeled and diced",
+          "4 medium carrots, peeled and diced",
+          "1 medium onion, diced"
+        ],
+        "method": [
+          "Preheat the oven to 300 degrees F (150 degrees C).",
+          "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top.",
+          "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
+        ],
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://i.ibb.co/qJh0xqs/chef-img4.jpg",
+    "chef_name": "Michael Johnson",
+    "years_of_experience": 15,
+    "number_of_recipes": 200,
+    "likes": 15000,
+    "bio": "Michael Johnson is a chef with 15 years of experience. He has created 200 recipes and has gained 15000 likes for his dishes.",
+    "recipe": [
+      {
+        "recipe_name": "Corned Beef Roast",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "1 (5 1/2 pound) corned beef brisket with spice packet",
+          "3 cloves garlic, chopped",
+          "7 small potatoes, peeled and diced",
+          "4 medium carrots, peeled and diced",
+          "1 medium onion, diced"
+        ],
+        "method": [
+          "Preheat the oven to 300 degrees F (150 degrees C).",
+          "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top.",
+          "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
+        ],
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i.ibb.co/xJzdpfn/chef-img3.jpg",
+    "chef_name": "David Lewis",
+    "years_of_experience": 9,
+    "number_of_recipes": 88,
+    "likes": 1200,
+    "bio": "David Lewis is a chef with 9 years of experience. He has created 88 recipes and has gained 1200 likes for his dishes.",
+    "recipe": [
+      {
+        "recipe_name": "Corned Beef Roast",
+        "recipe_img": "https://i.ibb.co/JR1dYkQ/recipe.jpg",
+        "ingredients": [
+          "1 (5 1/2 pound) corned beef brisket with spice packet",
+          "3 cloves garlic, chopped",
+          "7 small potatoes, peeled and diced",
+          "4 medium carrots, peeled and diced",
+          "1 medium onion, diced"
+        ],
+        "method": [
+          "Preheat the oven to 300 degrees F (150 degrees C).",
+          "Place corned beef brisket in the center of a roasting pan. Arrange potatoes and carrots around the sides, then scatter onion and garlic over top.",
+          "Roast in the preheated oven until corned beef is so tender it can be flaked apart with a fork, about 5 to 6 hours."
+        ],
+        "rating": 5.0
+      }
+    ]
+  }
+]

@@ -1,6 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 const sliderData = require("./data/sliderData.json");
+const recipeData = require("./data/recipeData.json");
 const app = express();
 const port = process.env.PORT || 3000;
 
@@ -12,6 +13,10 @@ app.get("/", (req, res) => {
 
 app.get("/slider", (req, res) => {
   res.send(sliderData);
+});
+
+app.get("/recipe", (req, res) => {
+  res.send();
 });
 
 app.listen(port, () => {
