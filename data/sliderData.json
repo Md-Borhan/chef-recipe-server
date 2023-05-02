@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://i.ibb.co/85sV9KD/chef-img1.jpg",
+    "chef_name": "John Smith",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 10000,
+    "slider_title": "Keaton The Smiling Chef",
+    "slider_desc": "Master of dimsum the legendary one chef.",
+    "slider_img": "https://i.ibb.co/nRWVp10/banner1.jpg"
+  },
+
+  {
+    "id": 2,
+    "chef_picture": "https://i.ibb.co/zRXdPPw/chef-img5.jpg",
+    "chef_name": "Samantha Lee",
+    "years_of_experience": 8,
+    "number_of_recipes": 75,
+    "likes": 8500,
+    "slider_title": "Super Delicious Food",
+    "slider_desc": "We are provide tasty & sweetie food.",
+    "slider_img": "https://i.ibb.co/8NN3pyw/banner2.jpg"
+  },
+
+  {
+    "id": 3,
+    "chef_picture": "https://i.ibb.co/vQ1SYQ1/chef-img6.jpg",
+    "chef_name": "David Kim",
+    "years_of_experience": 12,
+    "number_of_recipes": 100,
+    "likes": 12000,
+    "slider_title": "Indian Most Popular Food Juice",
+    "slider_desc": "We have international chef provider.",
+    "slider_img": "https://i.ibb.co/sWQVJGC/banner3.jpg"
+  },
+
+  {
+    "id": 4,
+    "chef_picture": "https://i.ibb.co/vccfnpQ/chef-img2.jpg",
+    "chef_class_picture": "https://i.ibb.co/mbvSrVP/chep-class1.jpg",
+    "chef_class_title": "Seafood & Wine",
+    "chef_name": "Maria Rodriguez",
+    "years_of_experience": 6,
+    "number_of_recipes": 40,
+    "likes": 5000,
+    "slider_title": "Fun and Easy to Become Cooking",
+    "slider_desc": "Master of dimsum the legendary one chef.",
+    "slider_img": "https://i.ibb.co/tP0QSKn/banner4.jpg"
+  },
+
+  {
+    "id": 5,
+    "chef_picture": "https://i.ibb.co/qJh0xqs/chef-img4.jpg",
+    "chef_class_picture": "https://i.ibb.co/dDpykf4/chep-class2.jpg",
+    "chef_class_title": "International Cuisine",
+    "chef_name": "Michael Johnson",
+    "years_of_experience": 15,
+    "number_of_recipes": 200,
+    "likes": 15000,
+    "slider_title": "Keaton The Smiling Chef",
+    "slider_desc": "Master of dimsum the legendary one chef.",
+    "slider_img": "https://i.ibb.co/nRWVp10/banner1.jpg"
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i.ibb.co/xJzdpfn/chef-img3.jpg",
+    "chef_class_picture": "https://i.ibb.co/jD0HzVq/chep-class3.jpg",
+    "chef_class_title": "French Desserts",
+    "chef_name": "David Lewis",
+    "years_of_experience": 9,
+    "number_of_recipes": 88,
+    "likes": 1200,
+    "slider_title": "Super Delicious Food",
+    "slider_desc": "We are provide tasty & sweetie food.",
+    "slider_img": "https://i.ibb.co/8NN3pyw/banner2.jpg"
+  }
+]
