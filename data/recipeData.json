@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chef_picture": "https://i.ibb.co/85sV9KD/chef-img1.jpg",
+    "chef_picture": "https://i.ibb.co/ZNrkTng/chef-img1.jpg",
     "chef_name": "John Smith",
     "years_of_experience": 10,
     "number_of_recipes": 50,
@@ -187,7 +187,7 @@
   },
   {
     "id": 4,
-    "chef_picture": "https://i.ibb.co/vccfnpQ/chef-img2.jpg",
+    "chef_picture": "https://i.ibb.co/ccfTXY0/chef-img2.jpg",
     "chef_name": "Maria Rodriguez",
     "years_of_experience": 6,
     "number_of_recipes": 40,
@@ -249,7 +249,7 @@
   },
   {
     "id": 5,
-    "chef_picture": "https://i.ibb.co/qJh0xqs/chef-img4.jpg",
+    "chef_picture": "https://i.ibb.co/G9zS70Y/chef-img4.jpg",
     "chef_name": "Michael Johnson",
     "years_of_experience": 15,
     "number_of_recipes": 200,
@@ -311,7 +311,7 @@
   },
   {
     "id": 6,
-    "chef_picture": "https://i.ibb.co/xJzdpfn/chef-img3.jpg",
+    "chef_picture": "https://i.ibb.co/QDHfyYg/chef-img3.jpg",
     "chef_name": "David Lewis",
     "years_of_experience": 9,
     "number_of_recipes": 88,
